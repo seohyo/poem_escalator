@@ -1,0 +1,2131 @@
+Tpoem_escalator
+v6
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/Info.plist /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/openFrameworks-Info.plist
+cCompileC DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.o /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.o /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug normal i386
+cPhaseScriptExecution Run\ Script /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+cPBXCp /Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework bin/poem_escalatorDebug.app/Contents/Frameworks/GLUT.framework
+cTouch /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk
+c000000005347886700000000000000AA
+t1397196903
+s170
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/SDKSettings.plist
+c00000000531466E4000000000000044C
+t1393845988
+s1100
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/CoreServices/SystemVersion.plist
+c00000000531EB08800000000000001DE
+t1394520200
+s478
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/AGL
+c00000000531EB088000000000000892C
+t1394520200
+s35116
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+c00000000531466E400000000000024B0
+t1393845988
+s9392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+c00000000531466E40000000000016E3C
+t1393845988
+s93756
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+c00000000531466E400000000000234E8
+t1393845988
+s144616
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+c00000000531466E40000000000084680
+t1393845988
+s542336
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+c00000000531466E4000000000000F3D8
+t1393845988
+s62424
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+c00000000531466E4000000000000FC9C
+t1393845988
+s64668
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+c00000000531466E400000000000025A8
+t1393845988
+s9640
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+c00000000531EB0890000000000268434
+t1394520201
+s2524212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c00000000531466E40000000000007D5C
+t1393845988
+s32092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+c00000000531EB0880000000000020D64
+t1394520200
+s134500
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+c00000000531466E4000000000001B3B8
+t1393845988
+s111544
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+c00000000531EB0880000000000034FAC
+t1394520200
+s217004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+c00000000531466E4000000000000CB08
+t1393845988
+s51976
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+c00000000531466E4000000000002C5F4
+t1393845988
+s181748
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+c00000000531466E4000000000002B9A8
+t1393845988
+s178600
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+c00000000531EB0880000000000011EF8
+t1394520200
+s73464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c00000000531EB088000000000002848C
+t1394520200
+s165004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+c00000000531EB0880000000000006268
+t1394520200
+s25192
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+c00000000531EB08900000000000598A8
+t1394520201
+s366760
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+c00000000531EB0880000000000002D7C
+t1394520200
+s11644
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
+c00000000531466E50000000000004278
+t1393845989
+s17016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+c00000000531466E500000000000085B4
+t1393845989
+s34228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+c00000000531EB08900000000000AAAD4
+t1394520201
+s699092
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
+c00000000531466E5000000000000808C
+t1393845989
+s32908
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+c00000000531466E5000000000000660C
+t1393845989
+s26124
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+c00000000531466E50000000000017F18
+t1393845989
+s98072
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+c00000000531466E5000000000001F100
+t1393845989
+s127232
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
+c00000000531466E5000000000000D824
+t1393845989
+s55332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+c00000000531466E50000000000011DB8
+t1393845989
+s73144
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+c00000000531466E50000000000006D70
+t1393845989
+s28016
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+c00000000531EB0890000000000004C1C
+t1394520201
+s19484
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+c00000000531466E5000000000000AF34
+t1393845989
+s44852
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+c00000000531466E5000000000000253C
+t1393845989
+s9532
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c00000000531466E5000000000000E448
+t1393845989
+s58440
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+c00000000531EB089000000000004C7C4
+t1394520201
+s313284
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531EB0890000000000085C70
+t1394520201
+s547952
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c00000000531EB089000000000008B334
+t1394520201
+s570164
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+c00000000531466E5000000000000979C
+t1393845989
+s38812
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+c00000000531466E500000000000223B4
+t1393845989
+s140212
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+c00000000531EB0890000000000071CA8
+t1394520201
+s466088
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+c00000000531466E50000000000017E1C
+t1393845989
+s97820
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+c00000000531EB089000000000004F090
+t1394520201
+s323728
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+c00000000531EB089000000000003AA48
+t1394520201
+s240200
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+c00000000531EB08900000000000383CC
+t1394520201
+s230348
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+c00000000531466E6000000000001B66C
+t1393845990
+s112236
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+c00000000531EB0890000000000030448
+t1394520201
+s197704
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c00000000531466E60000000000017D00
+t1393845990
+s97536
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c00000000531EB08A00000000000C9E38
+t1394520202
+s826936
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+c00000000531EB08A000000000004426C
+t1394520202
+s279148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+c00000000531EB08A00000000000394B0
+t1394520202
+s234672
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+c00000000531EB08A000000000000BB7C
+t1394520202
+s47996
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+c00000000531EB08A00000000000211A0
+t1394520202
+s135584
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+c00000000531EB08A0000000000005F00
+t1394520202
+s24320
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+c00000000531EB08B000000000007D88C
+t1394520203
+s514188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuickTime.framework/QuickTime
+c00000000531EB08B00000000000612A4
+t1394520203
+s397988
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+c00000000531466F000000000000022C4
+t1393846000
+s8900
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+c00000000531EB08D000000000000681C
+t1394520205
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libgcc_s.1.dylib
+c00000000531EB08D000000000000681C
+t1394520205
+s26652
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+c00000000531466F00000000000014EF8
+t1393846000
+s85752
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libstdc++.dylib
+c00000000531466F000000000000A2A44
+t1393846000
+s666180
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+c00000000531466F00000000000004734
+t1393846000
+s18228
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+c00000000531466F0000000000000FC6C
+t1393846000
+s64620
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+c00000000531466F0000000000000F6A0
+t1393846000
+s63136
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+c00000000531466F00000000000006254
+t1393846000
+s25172
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+c00000000531466F0000000000000E0F8
+t1393846000
+s57592
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+c00000000531EB08D000000000000D6DC
+t1394520205
+s55004
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+c00000000531EB08D0000000000006308
+t1394520205
+s25352
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+c00000000531466F00000000000004050
+t1393846000
+s16464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+c00000000531EB08D0000000000008570
+t1394520205
+s34160
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+c00000000531466F00000000000005EA0
+t1393846000
+s24224
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+c00000000531466F00000000000005FAC
+t1393846000
+s24492
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+c00000000531466F00000000000004440
+t1393846000
+s17472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+c00000000531466F0000000000000AA28
+t1393846000
+s43560
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+c00000000531466F00000000000003E2C
+t1393846000
+s15916
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+c00000000531EB08D0000000000030B04
+t1394520205
+s199428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+c00000000531EB08D0000000000005E54
+t1394520205
+s24148
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+c00000000531EB08D0000000000006A90
+t1394520205
+s27280
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+c00000000531466F000000000000178AC
+t1393846000
+s96428
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+c00000000531EB08D000000000001ADC8
+t1394520205
+s110024
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+c00000000531466F0000000000001028C
+t1393846000
+s66188
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+c00000000531EB08D0000000000008800
+t1394520205
+s34816
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+c00000000531466F00000000000011090
+t1393846000
+s69776
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+c00000000531466F0000000000000882C
+t1393846000
+s34860
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+c00000000531EB08D00000000000067AC
+t1394520205
+s26540
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+c00000000531466F00000000000008DEC
+t1393846000
+s36332
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+c00000000531EB08D0000000000004C08
+t1394520205
+s19464
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+c00000000531466F0000000000000439C
+t1393846000
+s17308
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+c00000000531466F00000000000006768
+t1393846000
+s26472
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+c00000000531EB08D00000000000172F4
+t1394520205
+s94964
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
+c000000005347884E0000000000000720
+t1397196878
+s1824
+
+N/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+c000000005347884E0000000000001770
+t1397196878
+s6000
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.o
+t1398895092
+s262124
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.o
+t1398897647
+s261012
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/poem_escalatorDebug.LinkFileList
+c00000000536120EA0000000000000173
+t1398874346
+s371
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+c00000000536120EA00000000000001A5
+t1398874346
+s421
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app
+t1398897679
+s102
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/Frameworks/GLUT.framework
+t1398874351
+s204
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/Info.plist
+t1398874346
+s1106
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug
+t1398898288
+s7909172
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/PkgInfo
+t1398874346
+s8
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/openFrameworks-Info.plist
+c0000000053611F3A000000000000029E
+t1398873914
+s670
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp
+c0000000053611F3A0000000000000155
+t1398873914
+s341
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp
+c0000000053617B310000000000000968
+t1398897457
+s2408
+
+N/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.h
+c0000000053617158000000000000026E
+t1398894936
+s622
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
+c0000000053379B9E00000000000021FA
+t1396153246
+s8698
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-features.h
+c0000000053379B9E000000000000031D
+t1396153246
+s797
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-pdf.h
+c0000000053379B9E0000000000000C24
+t1396153246
+s3108
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-svg.h
+c0000000053379B9E0000000000000ADD
+t1396153246
+s2781
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-version.h
+c0000000053379B9E0000000000000094
+t1396153246
+s148
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo.h
+c0000000053379B9E0000000000016BCE
+t1396153246
+s93134
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/lib/osx/cairo-script-interpreter.a
+c0000000053379B9E0000000000026B18
+t1396153246
+s158488
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/lib/osx/cairo.a
+c0000000053379B9E000000000010AD50
+t1396153246
+s1092944
+
+N/Applications/of_v0.8.1_osx_release/libs/cairo/lib/osx/pixman-1.a
+c0000000053379B9E000000000015F3D8
+t1396153246
+s1438680
+
+N/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod.h
+c0000000053379B9E0000000000028E68
+t1396153246
+s167528
+
+N/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_codec.h
+c0000000053379B9E000000000000334A
+t1396153246
+s13130
+
+N/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_dsp.h
+c0000000053379B9E000000000000892F
+t1396153246
+s35119
+
+N/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_errors.h
+c0000000053379B9E0000000000003408
+t1396153246
+s13320
+
+N/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_memoryinfo.h
+c0000000053379B9E0000000000003C95
+t1396153246
+s15509
+
+N/Applications/of_v0.8.1_osx_release/libs/fmodex/lib/osx/libfmodex.dylib
+c0000000053379B9E00000000001DD8CC
+t1396153246
+s1956044
+
+N/Applications/of_v0.8.1_osx_release/libs/glew/include/GL/glew.h
+c0000000053379B9E00000000000C1916
+t1396153246
+s792854
+
+N/Applications/of_v0.8.1_osx_release/libs/glew/lib/osx/glew.a
+c0000000053379B9E000000000009ECC8
+t1396153246
+s650440
+
+N/Applications/of_v0.8.1_osx_release/libs/glfw/lib/osx/libglfw3.a
+c0000000053379B9E000000000001DBB0
+t1396153246
+s121776
+
+N/Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework
+c0000000053379B9E00000000000000CC
+t1396153246
+s204
+
+N/Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework/GLUT
+c0000000053379B9E0000000000093570
+t1396153246
+s603504
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
+c0000000053379B9E000000000000209B
+t1396153246
+s8347
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/of3dUtils.h
+c0000000053379B9E00000000000001B2
+t1396153246
+s434
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofCamera.h
+c0000000053379B9E0000000000000A1A
+t1396153246
+s2586
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofEasyCam.h
+c0000000053379B9E00000000000007D4
+t1396153246
+s2004
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofMesh.h
+c0000000053379B9E0000000000001C02
+t1396153246
+s7170
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofNode.h
+c0000000053379B9E0000000000001454
+t1396153246
+s5204
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
+c0000000053379B9E000000000000082C
+t1396153246
+s2092
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofAppRunner.h
+c0000000053379B9E0000000000000A14
+t1396153246
+s2580
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofBaseApp.h
+c0000000053379B9E000000000000089E
+t1396153246
+s2206
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/communication/ofArduino.h
+c0000000053379B9E0000000000004239
+t1396153246
+s16953
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/communication/ofSerial.h
+c0000000053379B9E0000000000000D7E
+t1396153246
+s3454
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofDelegate.h
+c0000000053379B9E0000000000001B84
+t1396153246
+s7044
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofEventUtils.h
+c0000000053379B9E0000000000002073
+t1396153246
+s8307
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofEvents.h
+c0000000053379B9E0000000000001DDF
+t1396153246
+s7647
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofFbo.h
+c0000000053379B9E00000000000011A7
+t1396153246
+s4519
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+c0000000053379B9E00000000000018FA
+t1396153246
+s6394
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
+c0000000053379B9E0000000000001492
+t1396153246
+s5266
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLUtils.h
+c0000000053379B9E0000000000001552
+t1396153246
+s5458
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofLight.h
+c0000000053379B9E000000000000094E
+t1396153246
+s2382
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofMaterial.h
+c0000000053379B9E00000000000005D2
+t1396153246
+s1490
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofShader.h
+c0000000053379B9E00000000000018FD
+t1396153246
+s6397
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofTexture.h
+c0000000053379B9E0000000000001CFB
+t1396153246
+s7419
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofVbo.h
+c0000000053379B9E0000000000000EB2
+t1396153246
+s3762
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofVboMesh.h
+c0000000053379B9E0000000000000358
+t1396153246
+s856
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
+c0000000053379B9E0000000000000FEA
+t1396153246
+s4074
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
+c0000000053379B9E00000000000017A2
+t1396153246
+s6050
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofGraphics.h
+c0000000053379B9E00000000000027EE
+t1396153246
+s10222
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofImage.h
+c0000000053379B9E00000000000021C4
+t1396153246
+s8644
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPath.h
+c0000000053379B9E0000000000001AFA
+t1396153246
+s6906
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPixels.h
+c0000000053379B9E000000000000148D
+t1396153246
+s5261
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPolyline.h
+c0000000053379B9E000000000000234E
+t1396153246
+s9038
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
+c0000000053379B9E0000000000002E24
+t1396153246
+s11812
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofTessellator.h
+c0000000053379B9E0000000000000459
+t1396153246
+s1113
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+c0000000053379B9E0000000000000C65
+t1396153246
+s3173
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMath.h
+c0000000053379B9E000000000000159C
+t1396153246
+s5532
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
+c0000000053379B9E0000000000000BB7
+t1396153246
+s2999
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
+c0000000053379B9E0000000000006CA3
+t1396153246
+s27811
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofQuaternion.h
+c0000000053379B9E0000000000003463
+t1396153246
+s13411
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec2f.h
+c0000000053379B9E0000000000004343
+t1396153246
+s17219
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec3f.h
+c0000000053379B9E00000000000064A7
+t1396153246
+s25767
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec4f.h
+c0000000053379B9E0000000000002FCF
+t1396153246
+s12239
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVectorMath.h
+c0000000053379B9E0000000000000099
+t1396153246
+s153
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/ofMain.h
+c0000000053379B9E000000000000070A
+t1396153246
+s1802
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+c0000000053379B9E0000000000000406
+t1396153246
+s1030
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+c0000000053379B9E000000000000036D
+t1396153246
+s877
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+c0000000053379B9E00000000000006F4
+t1396153246
+s1780
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+c0000000053379B9E000000000000054A
+t1396153246
+s1354
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
+c0000000053379B9E000000000000075B
+t1396153246
+s1883
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofSoundStream.h
+c0000000053379B9E000000000000073B
+t1396153246
+s1851
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofBaseTypes.h
+c0000000053379B9E000000000000369C
+t1396153246
+s13980
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofColor.h
+c0000000053379B9E00000000000066C3
+t1396153246
+s26307
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofParameter.h
+c0000000053379B9E0000000000005A4B
+t1396153246
+s23115
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofParameterGroup.h
+c0000000053379B9E000000000000104C
+t1396153246
+s4172
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofPoint.h
+c0000000053379B9E000000000000003D
+t1396153246
+s61
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofRectangle.h
+c0000000053379B9E0000000000001C5F
+t1396153246
+s7263
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofTypes.h
+c0000000053379B9E00000000000013C2
+t1396153246
+s5058
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofConstants.h
+c0000000053379B9E000000000000490B
+t1396153246
+s18699
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofFileUtils.h
+c0000000053379B9E0000000000002075
+t1396153246
+s8309
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofLog.h
+c0000000053379B9E0000000000001836
+t1396153246
+s6198
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
+c0000000053379B9E0000000000000A56
+t1396153246
+s2646
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
+c0000000053379B9E0000000000000202
+t1396153246
+s514
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofThread.h
+c0000000053379B9E0000000000001410
+t1396153246
+s5136
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
+c0000000053379B9E00000000000008FE
+t1396153246
+s2302
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofUtils.h
+c0000000053379B9E00000000000017D0
+t1396153246
+s6096
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofXml.h
+c0000000053379B9E0000000000001FA9
+t1396153246
+s8105
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
+c0000000053379B9E0000000000000B71
+t1396153246
+s2929
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
+c0000000053379B9E000000000000122A
+t1396153246
+s4650
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
+c0000000053379B9E0000000000000AE6
+t1396153246
+s2790
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
+c0000000053379B9E0000000000000B95
+t1396153246
+s2965
+
+N/Applications/of_v0.8.1_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+c000000005356BEFE00000000021077E8
+t1398193918
+s34633704
+
+N/Applications/of_v0.8.1_osx_release/libs/openssl/lib/osx/crypto.a
+c0000000053379BA000000000002655A0
+t1396153248
+s2512288
+
+N/Applications/of_v0.8.1_osx_release/libs/openssl/lib/osx/ssl.a
+c0000000053379BA0000000000006EF18
+t1396153248
+s454424
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractDelegate.h
+c0000000053379BA00000000000000E6B
+t1396153248
+s3691
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractEvent.h
+c0000000053379BA00000000000005544
+t1396153248
+s21828
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+c0000000053379BA000000000000009C9
+t1396153248
+s2505
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveMethod.h
+c0000000053379BA00000000000001C64
+t1396153248
+s7268
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveResult.h
+c0000000053379BA00000000000002E66
+t1396153248
+s11878
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveRunnable.h
+c0000000053379BA00000000000001785
+t1396153248
+s6021
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveStarter.h
+c0000000053379BA00000000000000927
+t1396153248
+s2343
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Any.h
+c0000000053379BA000000000000020E8
+t1396153248
+s8424
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AtomicCounter.h
+c0000000053379BA00000000000002138
+t1396153248
+s8504
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AutoPtr.h
+c0000000053379BA00000000000001E0C
+t1396153248
+s7692
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AutoReleasePool.h
+c0000000053379BA00000000000000C42
+t1396153248
+s3138
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Bugcheck.h
+c0000000053379BA000000000000014A9
+t1396153248
+s5289
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Condition.h
+c0000000053379BA00000000000001236
+t1396153248
+s4662
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Config.h
+c0000000053379BA00000000000000EA4
+t1396153248
+s3748
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+c0000000053379BA00000000000000E9C
+t1396153248
+s3740
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
+c0000000053379BA0000000000000127B
+t1396153248
+s4731
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Attr.h
+c0000000053379BA00000000000001E38
+t1396153248
+s7736
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
+c0000000053379BA00000000000001233
+t1396153248
+s4659
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+c0000000053379BA000000000000008CF
+t1396153248
+s2255
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMException.h
+c0000000053379BA000000000000013B9
+t1396153248
+s5049
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
+c0000000053379BA00000000000000E55
+t1396153248
+s3669
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
+c0000000053379BA00000000000001005
+t1396153248
+s4101
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
+c0000000053379BA0000000000000105D
+t1396153248
+s4189
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Document.h
+c0000000053379BA00000000000002C58
+t1396153248
+s11352
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+c0000000053379BA00000000000000D80
+t1396153248
+s3456
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+c0000000053379BA00000000000001153
+t1396153248
+s4435
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Element.h
+c0000000053379BA0000000000000247F
+t1396153248
+s9343
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Event.h
+c0000000053379BA00000000000001CD3
+t1396153248
+s7379
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
+c0000000053379BA00000000000000FEE
+t1396153248
+s4078
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
+c0000000053379BA000000000000015B9
+t1396153248
+s5561
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+c0000000053379BA00000000000001172
+t1396153248
+s4466
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Node.h
+c0000000053379BA00000000000003276
+t1396153248
+s12918
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
+c0000000053379BA00000000000001A30
+t1396153248
+s6704
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
+c0000000053379BA0000000000000189F
+t1396153248
+s6303
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeList.h
+c0000000053379BA00000000000000A81
+t1396153248
+s2689
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Text.h
+c0000000053379BA00000000000000ECF
+t1396153248
+s3791
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Event.h
+c0000000053379BA00000000000000E58
+t1396153248
+s3672
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Event_POSIX.h
+c0000000053379BA00000000000000A91
+t1396153248
+s2705
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Exception.h
+c0000000053379BA000000000000028B1
+t1396153248
+s10417
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/File.h
+c0000000053379BA00000000000001FCC
+t1396153248
+s8140
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/File_UNIX.h
+c0000000053379BA00000000000000BC1
+t1396153248
+s3009
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Foundation.h
+c0000000053379BA000000000000010F9
+t1396153248
+s4345
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+c0000000053379BA00000000000002C69
+t1396153248
+s11369
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Mutex.h
+c0000000053379BA00000000000001DD6
+t1396153248
+s7638
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
+c0000000053379BA00000000000000AC2
+t1396153248
+s2754
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/NotificationStrategy.h
+c0000000053379BA00000000000000F3F
+t1396153248
+s3903
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Path.h
+c0000000053379BA000000000000036A0
+t1396153248
+s13984
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Platform.h
+c0000000053379BA00000000000001CBD
+t1396153248
+s7357
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Platform_POSIX.h
+c0000000053379BA00000000000000843
+t1396153248
+s2115
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityDelegate.h
+c0000000053379BA00000000000003516
+t1396153248
+s13590
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityEvent.h
+c0000000053379BA00000000000000A78
+t1396153248
+s2680
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityExpire.h
+c0000000053379BA0000000000000155B
+t1396153248
+s5467
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityStrategy.h
+c0000000053379BA000000000000013CE
+t1396153248
+s5070
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/RefCountedObject.h
+c0000000053379BA00000000000000BB1
+t1396153248
+s2993
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/RegularExpression.h
+c0000000053379BA0000000000000318C
+t1396153248
+s12684
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Runnable.h
+c0000000053379BA00000000000000861
+t1396153248
+s2145
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
+c0000000053379BA0000000000000322F
+t1396153248
+s12847
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
+c0000000053379BA000000000000012A1
+t1396153248
+s4769
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+c0000000053379BA00000000000001975
+t1396153248
+s6517
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/Locator.h
+c0000000053379BA00000000000001678
+t1396153248
+s5752
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+c0000000053379BA00000000000002491
+t1396153248
+s9361
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/SAXException.h
+c0000000053379BA00000000000001BF7
+t1396153248
+s7159
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
+c0000000053379BA000000000000010D3
+t1396153248
+s4307
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
+c0000000053379BA000000000000026EA
+t1396153248
+s9962
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ScopedLock.h
+c0000000053379BA00000000000000CC5
+t1396153248
+s3269
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ScopedUnlock.h
+c0000000053379BA0000000000000092B
+t1396153248
+s2347
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SharedPtr.h
+c0000000053379BA00000000000002278
+t1396153248
+s8824
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SignalHandler.h
+c0000000053379BA00000000000001205
+t1396153248
+s4613
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SingletonHolder.h
+c0000000053379BA00000000000000A67
+t1396153248
+s2663
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/StreamConverter.h
+c0000000053379BA00000000000001588
+t1396153248
+s5512
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/StreamUtil.h
+c0000000053379BA00000000000000E2F
+t1396153248
+s3631
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/TextEncoding.h
+c0000000053379BA00000000000002078
+t1396153248
+s8312
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Thread.h
+c0000000053379BA00000000000001E48
+t1396153248
+s7752
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ThreadPool.h
+c0000000053379BA00000000000001C8A
+t1396153248
+s7306
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Thread_POSIX.h
+c0000000053379BA000000000000014C0
+t1396153248
+s5312
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Timestamp.h
+c0000000053379BA00000000000001A41
+t1396153248
+s6721
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Types.h
+c0000000053379BA00000000000001ABE
+t1396153248
+s6846
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+c0000000053379BA00000000000001262
+t1396153248
+s4706
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/Name.h
+c0000000053379BA00000000000001200
+t1396153248
+s4608
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/NamePool.h
+c0000000053379BA00000000000000C08
+t1396153248
+s3080
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
+c0000000053379BA0000000000000332C
+t1396153248
+s13100
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XML.h
+c0000000053379BA00000000000000A8A
+t1396153248
+s2698
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLException.h
+c0000000053379BA000000000000007EB
+t1396153248
+s2027
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLStream.h
+c0000000053379BA00000000000000C0A
+t1396153248
+s3082
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLString.h
+c0000000053379BA00000000000000CB6
+t1396153248
+s3254
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
+c0000000053379BA000000000000036CC
+t1396153248
+s14028
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/expat.h
+c0000000053379BA00000000000009D93
+t1396153248
+s40339
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/expat_external.h
+c0000000053379BA00000000000000D24
+t1396153248
+s3364
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoCrypto.a
+c0000000053379BA200000000000318D0
+t1396153250
+s202960
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoData.a
+c0000000053379BA2000000000009CE00
+t1396153250
+s642560
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoDataODBC.a
+c0000000053379BA20000000000075160
+t1396153250
+s479584
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoDataSQLite.a
+c0000000053379BA200000000000D8010
+t1396153250
+s884752
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoFoundation.a
+c0000000053379BA2000000000025BAB0
+t1396153250
+s2472624
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoNet.a
+c0000000053379BA200000000001A34D8
+t1396153250
+s1717464
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoNetSSL.a
+c0000000053379BA20000000000074590
+t1396153250
+s476560
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoUtil.a
+c0000000053379BA200000000000907F0
+t1396153250
+s591856
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoXML.a
+c0000000053379BA200000000000D9AE8
+t1396153250
+s891624
+
+N/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoZip.a
+c0000000053379BA2000000000007A870
+t1396153250
+s501872
+
+N/Applications/of_v0.8.1_osx_release/libs/rtAudio/lib/osx/rtAudio.a
+c0000000053379BA40000000000013C00
+t1396153252
+s80896
+
+N/Applications/of_v0.8.1_osx_release/libs/tess2/include/tesselator.h
+c0000000053379BA40000000000001C67
+t1396153252
+s7271
+
+N/Applications/of_v0.8.1_osx_release/libs/tess2/lib/osx/tess2.a
+c0000000053379BA40000000000016E28
+t1396153252
+s93736
+
+N/System/Library/Frameworks/AGL.framework/AGL
+c0000000052E61E8E0000000000019CF0
+t1390812814
+s105712
+
+N/System/Library/Frameworks/Accelerate.framework/Accelerate
+c0000000052E61E5300000000000065A0
+t1390812755
+s26016
+
+N/System/Library/Frameworks/AppKit.framework/AppKit
+c0000000053159439000000000249F9B0
+t1393923129
+s38402480
+
+N/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+c0000000052E61E1D000000000000BC70
+t1390812701
+s48240
+
+N/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+c000000005315946000000000003E4CF0
+t1393923168
+s4082928
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c0000000052E61E2200000000000066C0
+t1390812706
+s26304
+
+N/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+c0000000052E61E2400000000000EFD70
+t1390812708
+s982384
+
+N/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+c00000000531594470000000000688600
+t1393923143
+s6850048
+
+N/System/Library/Frameworks/CoreServices.framework/CoreServices
+c0000000052E61E28000000000000D730
+t1390812712
+s55088
+
+N/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+c0000000052E61E290000000000080210
+t1390812713
+s524816
+
+N/System/Library/Frameworks/IOKit.framework/IOKit
+c00000000531594E30000000000141E90
+t1393923299
+s1318544
+
+N/System/Library/Frameworks/OpenGL.framework/OpenGL
+c0000000053159536000000000002C960
+t1393923382
+s182624
+
+N/System/Library/Frameworks/QTKit.framework/QTKit
+c000000005315955D000000000049ED90
+t1393923421
+s4844944
+
+N/System/Library/Frameworks/QuickTime.framework/QuickTime
+c000000005315955C0000000000322D20
+t1393923420
+s3288352
+
+CBuild AST from /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp
+r0
+
+CBuild AST from /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp
+r0
+
+CCheck dependencies
+r0
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependencies18"Check dependencies9a7c37f0b511b941^3d2838f0b511b941^---0#1#1#--18"Check dependencies36"70E25E10-78C8-4FED-AA6E-0DD472752162-
+
+CCompileC DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.o /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420587889.577518
+e420587892.946909
+r1
+xCompileC
+xDerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.o
+x/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/ofMain.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofConstants.h
+d/Applications/of_v0.8.1_osx_release/libs/glew/include/GL/glew.h
+d/Applications/of_v0.8.1_osx_release/libs/tess2/include/tesselator.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/File.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Foundation.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Config.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Platform.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Bugcheck.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Types.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Timestamp.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/File_UNIX.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofLog.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofTypes.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofColor.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMath.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofPoint.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec3f.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec2f.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec4f.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Mutex.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Exception.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ScopedLock.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofThread.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Thread.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Runnable.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SignalHandler.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Event.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Event_POSIX.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/RefCountedObject.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AtomicCounter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AutoPtr.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofEvents.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofEventUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityEvent.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractEvent.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SingletonHolder.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SharedPtr.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveResult.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveMethod.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveStarter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ThreadPool.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityExpire.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Condition.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Path.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofRectangle.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofMesh.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPixels.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofQuaternion.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofXml.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Document.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XML.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Node.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLString.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Event.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Element.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/Name.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/NamePool.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/expat.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/expat_external.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/Locator.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/TextEncoding.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLException.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/StreamConverter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/StreamUtil.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Attr.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Text.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofParameter.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Any.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVectorMath.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/communication/ofSerial.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/communication/ofArduino.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofFbo.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofTexture.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofVbo.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofLight.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofNode.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/of3dUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofMaterial.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofShader.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/RegularExpression.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-features.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-pdf.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-version.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-svg.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPath.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofImage.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofBaseApp.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofAppRunner.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_codec.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_dsp.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_memoryinfo.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_errors.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofCamera.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofEasyCam.h
+d/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.h
+oclang: warning: -lpthread: 'linker' input unused
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection83"Compile /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp203"CompileC DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler3eca9471a911b941^6b65f274a911b941^-49"clang: warning: -lpthread: 'linker' input unused-0#0#1#-19%DVTDocumentLocation2@82"file:///Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp0000000000000000^3625"CompileC DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.o src/main.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/poem_escalatorDebug.hmap -I/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/DerivedSources/i386 -I/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/DerivedSources -F/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin -F/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.d --serialize-diagnostics /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.dia -c /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/main.cpp -o /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.o36"267BFCB7-951D-4F24-8475-529D7DA72D24-
+b5578DDE3-1D87-4FF9-82B8-722DF1BB86AB
+
+CCompileC DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.o /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler
+s420590443.708773
+e420590447.346737
+r1
+xCompileC
+xDerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.o
+x/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp
+xnormal
+xi386
+xc++
+xcom.apple.compilers.llvm.clang.1_0.compiler
+d/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp
+d/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/ofMain.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofConstants.h
+d/Applications/of_v0.8.1_osx_release/libs/glew/include/GL/glew.h
+d/Applications/of_v0.8.1_osx_release/libs/tess2/include/tesselator.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofFileUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/File.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Foundation.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Config.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Platform.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Platform_POSIX.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Bugcheck.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Types.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Timestamp.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/File_UNIX.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofLog.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofTypes.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofColor.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMath.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofPoint.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec3f.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec2f.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVec4f.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Mutex.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Exception.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ScopedLock.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Mutex_POSIX.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofSystemUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofThread.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Thread.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Thread_POSIX.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Runnable.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SignalHandler.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Event.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Event_POSIX.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/RefCountedObject.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AtomicCounter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AutoPtr.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofURLFileLoader.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofEvents.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofEventUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityEvent.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractEvent.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SingletonHolder.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SharedPtr.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveResult.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveMethod.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveRunnable.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ActiveStarter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ThreadPool.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityStrategy.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/NotificationStrategy.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractPriorityDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AbstractDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/PriorityExpire.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/FunctionPriorityDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/events/ofDelegate.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Condition.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/ScopedUnlock.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Path.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofBaseTypes.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofRectangle.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofMesh.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPixels.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMatrix4x4.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofQuaternion.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofXml.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Document.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XML.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/AbstractContainerNode.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/AbstractNode.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Node.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/EventTarget.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMObject.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLString.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/NamespaceSupport.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/MutationEvent.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Event.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DocumentEvent.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Element.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/Name.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/NamePool.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/AutoReleasePool.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DocumentFragment.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMParser.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/SAXParser.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/XMLReader.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/ParserEngine.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/expat.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/expat_external.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLStream.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/Locator.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/TextEncoding.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMException.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLException.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/SAXException.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/XML/XMLWriter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/ContentHandler.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/LexicalHandler.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/SAX/DTDHandler.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/StreamConverter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/UnbufferedStreamBuf.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/StreamUtil.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/DOMWriter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Attr.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/Text.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/CharacterData.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeIterator.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeFilter.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NamedNodeMap.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/ChildNodesList.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/DOM/NodeList.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofParameter.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/types/ofParameterGroup.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/Any.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofVectorMath.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/math/ofMatrix3x3.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/communication/ofSerial.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/communication/ofArduino.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofFbo.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofTexture.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofVboMesh.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofVbo.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLRenderer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPolyline.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofGraphics.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/utils/ofMatrixStack.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofLight.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofNode.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/of3dUtils.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/of3dGraphics.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/of3dPrimitives.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofMaterial.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofShader.h
+d/Applications/of_v0.8.1_osx_release/libs/poco/include/Poco/RegularExpression.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofAppBaseWindow.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/gl/ofGLProgrammableRenderer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofCairoRenderer.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-features.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-pdf.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-version.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-deprecated.h
+d/Applications/of_v0.8.1_osx_release/libs/cairo/include/cairo/cairo-svg.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofPath.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofTessellator.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofImage.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofRendererCollection.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/graphics/ofTrueTypeFont.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofBaseApp.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/app/ofAppRunner.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofSoundStream.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofBaseSoundStream.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofRtAudioSoundStream.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofSoundPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofBaseSoundPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/sound/ofFmodSoundPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_codec.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_dsp.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_memoryinfo.h
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/include/fmod_errors.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofVideoGrabber.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofQTKitGrabber.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofVideoPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/video/ofQTKitPlayer.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofCamera.h
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworks/3d/ofEasyCam.h
+oclang: warning: -lpthread: 'linker' input unused
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection84"Compile /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp205"CompileC DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.o src/ofApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler323eb86bb311b941^d2c3586fb311b941^-49"clang: warning: -lpthread: 'linker' input unused-0#0#1#-19%DVTDocumentLocation2@83"file:///Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp0000000000000000^3631"CompileC DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.o src/ofApp.cpp normal i386 c++ com.apple.compilers.llvm.clang.1_0.compiler    cd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    export LANG=en_US.US-ASCII    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x c++ -arch i386 -fmessage-length=0 -fdiagnostics-show-note-include-stack -fmacro-backtrace-limit=0 -stdlib=libstdc++ -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wno-missing-prototypes -Wno-return-type -Wno-non-virtual-dtor -Wno-overloaded-virtual -Wno-exit-time-destructors -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wno-unused-variable -Wno-unused-value -Wno-empty-body -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-conversion -Wno-constant-conversion -Wno-int-conversion -Wno-bool-conversion -Wno-enum-conversion -Wno-shorten-64-to-32 -Wno-newline-eof -Wno-c++11-extensions -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -fasm-blocks -fstrict-aliasing -Wdeprecated-declarations -Wno-invalid-offsetof -mmacosx-version-min=10.6 -g -mssse3 -Wno-sign-conversion -I/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/poem_escalatorDebug.hmap -I/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/include -I../../../libs/openFrameworks -I../../../libs/openFrameworks/3d -I../../../libs/openFrameworks/app -I../../../libs/openFrameworks/communication -I../../../libs/openFrameworks/events -I../../../libs/openFrameworks/gl -I../../../libs/openFrameworks/graphics -I../../../libs/openFrameworks/math -I../../../libs/openFrameworks/sound -I../../../libs/openFrameworks/types -I../../../libs/openFrameworks/utils -I../../../libs/openFrameworks/video -I../../../libs/poco/include -I../../../libs/freetype/include -I../../../libs/freetype/include/freetype2 -I../../../libs/fmodex/include -I../../../libs/glew/include -I../../../libs/FreeImage/include -I../../../libs/tess2/include -I../../../libs/cairo/include/cairo -I../../../libs/rtAudio/include -I../../../libs/glfw/include -I/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/DerivedSources/i386 -I/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/DerivedSources -F/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin -F/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/../../../libs/glut/lib/osx -D__MACOSX_CORE__ -lpthread -mtune=native -MMD -MT dependencies -MF /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.d --serialize-diagnostics /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.dia -c /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/src/ofApp.cpp -o /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.o36"76176985-1448-4875-96E7-6F73958D2664-
+b2343DC5D-239C-4623-B8E5-4DFC880A8551
+
+CLd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug normal i386
+s420590447.366267
+e420590449.340839
+r1
+xLd
+x/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug
+xnormal
+xi386
+d/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/poem_escalatorDebug.LinkFileList
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/crt1.10.6.o
+d/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/main.o
+d/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/ofApp.o
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoCrypto.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoData.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoDataODBC.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoDataSQLite.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoFoundation.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoNet.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoNetSSL.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoUtil.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoXML.a
+d/Applications/of_v0.8.1_osx_release/libs/poco/lib/osx/PocoZip.a
+d/Applications/of_v0.8.1_osx_release/libs/tess2/lib/osx/tess2.a
+d/Applications/of_v0.8.1_osx_release/libs/glew/lib/osx/glew.a
+d/Applications/of_v0.8.1_osx_release/libs/cairo/lib/osx/cairo-script-interpreter.a
+d/Applications/of_v0.8.1_osx_release/libs/cairo/lib/osx/cairo.a
+d/Applications/of_v0.8.1_osx_release/libs/cairo/lib/osx/pixman-1.a
+d/Applications/of_v0.8.1_osx_release/libs/fmodex/lib/osx/libfmodex.dylib
+d/Applications/of_v0.8.1_osx_release/libs/rtAudio/lib/osx/rtAudio.a
+d/Applications/of_v0.8.1_osx_release/libs/openssl/lib/osx/crypto.a
+d/Applications/of_v0.8.1_osx_release/libs/openssl/lib/osx/ssl.a
+d/Applications/of_v0.8.1_osx_release/libs/glfw/lib/osx/libglfw3.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Accelerate
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QTKit.framework/QTKit
+d/Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework/GLUT
+d/Applications/of_v0.8.1_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AGL.framework/AGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/ApplicationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioToolbox.framework/AudioToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreAudio.framework/CoreAudio
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreFoundation.framework/CoreFoundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/CoreServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/OpenGL
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/QuickTime.framework/QuickTime
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AppKit.framework/AppKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Cocoa.framework/Cocoa
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/IOKit.framework/IOKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreVideo.framework/CoreVideo
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libstdc++.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libSystem.dylib
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.eprintf.a
+d/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/5.1/lib/darwin/libclang_rt.osx.a
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Carbon
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/AudioUnit.framework/AudioUnit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libgcc_s.1.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vImage.framework/Versions/A/vImage
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/vecLib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvDSP.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreText.framework/CoreText
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ImageIO.framework/ImageIO
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ATS.framework/Versions/A/ATS
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/ColorSync.framework/Versions/A/ColorSync
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/HIServices.framework/Versions/A/HIServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/LangAnalysis.framework/Versions/A/LangAnalysis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/PrintCore.framework/Versions/A/PrintCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/QD.framework/Versions/A/QD
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/ApplicationServices.framework/Versions/A/Frameworks/SpeechSynthesis.framework/Versions/A/SpeechSynthesis
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGLU.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/OpenGL.framework/Versions/A/Libraries/libGL.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CFNetwork.framework/CFNetwork
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/CarbonCore.framework/Versions/A/CarbonCore
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/Metadata.framework/Versions/A/Metadata
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/OSServices.framework/Versions/A/OSServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/SearchKit.framework/Versions/A/SearchKit
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/AE.framework/Versions/A/AE
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/LaunchServices.framework/Versions/A/LaunchServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreServices.framework/Versions/A/Frameworks/DictionaryServices.framework/Versions/A/DictionaryServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/CoreData.framework/CoreData
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcache.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcommonCrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcompiler_rt.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcopyfile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libcorecrypto.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdispatch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libdyld.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libkeymgr.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/liblaunch.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libmacho.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libquarantine.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libremovefile.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_asl.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_blocks.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_c.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_configuration.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_dnssd.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_info.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_kernel.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_m.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_malloc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_network.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_notify.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_platform.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_pthread.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libsystem_sandbox.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libunwind.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/system/libxpc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CarbonSound.framework/Versions/A/CarbonSound
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/CommonPanels.framework/Versions/A/CommonPanels
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Help.framework/Versions/A/Help
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HIToolbox.framework/Versions/A/HIToolbox
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/HTMLRendering.framework/Versions/A/HTMLRendering
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/ImageCapture.framework/Versions/A/ImageCapture
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Ink.framework/Versions/A/Ink
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/NavigationServices.framework/Versions/A/NavigationServices
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/OpenScripting.framework/Versions/A/OpenScripting
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/Print.framework/Versions/A/Print
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SecurityHI.framework/Versions/A/SecurityHI
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Carbon.framework/Versions/A/Frameworks/SpeechRecognition.framework/Versions/A/SpeechRecognition
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libvMisc.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libLAPACK.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/System/Library/Frameworks/Accelerate.framework/Versions/A/Frameworks/vecLib.framework/Versions/A/libBLAS.dylib
+d/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk/usr/lib/libobjc.A.dylib
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Link /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug77"Ld bin/poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug normal i38661e05d6fb311b941^0f435771b311b941^---0#0#1#--2494"Ld bin/poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug normal i386    cd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    export MACOSX_DEPLOYMENT_TARGET=10.6    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang++ -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk -L/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin -F/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin -F/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/../../../libs/glut/lib/osx -filelist /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/poem_escalatorDebug.LinkFileList -mmacosx-version-min=10.6 -dead_strip ../../../libs/poco/lib/osx/PocoCrypto.a ../../../libs/poco/lib/osx/PocoData.a ../../../libs/poco/lib/osx/PocoDataODBC.a ../../../libs/poco/lib/osx/PocoDataSQLite.a ../../../libs/poco/lib/osx/PocoFoundation.a ../../../libs/poco/lib/osx/PocoNet.a ../../../libs/poco/lib/osx/PocoNetSSL.a ../../../libs/poco/lib/osx/PocoUtil.a ../../../libs/poco/lib/osx/PocoXML.a ../../../libs/poco/lib/osx/PocoZip.a ../../../libs/tess2/lib/osx/tess2.a ../../../libs/glew/lib/osx/glew.a ../../../libs/cairo/lib/osx/cairo-script-interpreter.a ../../../libs/cairo/lib/osx/cairo.a ../../../libs/cairo/lib/osx/pixman-1.a ../../../libs/fmodex/lib/osx/libfmodex.dylib ../../../libs/rtAudio/lib/osx/rtAudio.a ../../../libs/openssl/lib/osx/crypto.a ../../../libs/openssl/lib/osx/ssl.a ../../../libs/glfw/lib/osx/libglfw3.a -stdlib=libstdc++ -framework Accelerate -framework QTKit -framework GLUT /Applications/of_v0.8.1_osx_release/libs/openFrameworksCompiled/lib/osx/openFrameworksDebug.a -framework AGL -framework ApplicationServices -framework AudioToolbox -framework CoreAudio -framework CoreFoundation -framework CoreServices -framework OpenGL -framework QuickTime -framework AppKit -framework Cocoa -framework IOKit -framework CoreVideo -Xlinker -dependency_info -Xlinker /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/poem_escalatorDebug_dependency_info.dat -o /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug36"A5C7C476-0859-483A-A22E-178FBCD68BE0-
+b2343DC5D-239C-4623-B8E5-4DFC880A8551
+
+CPBXCp /Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework bin/poem_escalatorDebug.app/Contents/Frameworks/GLUT.framework
+s420567151.598660
+e420567151.702743
+r1
+xPBXCp
+x/Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework
+xbin/poem_escalatorDebug.app/Contents/Frameworks/GLUT.framework
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection67"Copy bin/poem_escalatorDebug.app/Contents/Frameworks/GLUT.framework137"PBXCp /Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework bin/poem_escalatorDebug.app/Contents/Frameworks/GLUT.framework9c53996f5811b941^9fe7b36f5811b941^---0#0#1#-19%DVTDocumentLocation2@132"file:///Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/Frameworks/GLUT.framework003464f9ddffdf42^500"PBXCp /Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework bin/poem_escalatorDebug.app/Contents/Frameworks/GLUT.framework    cd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks /Applications/of_v0.8.1_osx_release/libs/glut/lib/osx/GLUT.framework /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/Frameworks36"81D847E7-87D0-4656-BACF-627EC8768F55-
+bDFC58B91-5F9D-4BBF-B220-75B8EC383A10
+
+CPhaseScriptExecution Run\ Script /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+s420591088.258373
+e420591088.383260
+r1
+xPhaseScriptExecution
+xRun Script
+x/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Run custom shell script 'Run Script'162"PhaseScriptExecution Run\ Script DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh132d45f0b511b941^753c62f0b511b941^---0#0#1#--28502"PhaseScriptExecution Run\ Script DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh    cd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    export ACTION=build    export ALTERNATE_GROUP=staff    export ALTERNATE_MODE=u+w,go-w,a+rX    export ALTERNATE_OWNER=SEO    export ALWAYS_SEARCH_USER_PATHS=YES    export ALWAYS_USE_SEPARATE_HEADERMAPS=YES    export APPLE_INTERNAL_DEVELOPER_DIR=/AppleInternal/Developer    export APPLE_INTERNAL_DIR=/AppleInternal    export APPLE_INTERNAL_DOCUMENTATION_DIR=/AppleInternal/Documentation    export APPLE_INTERNAL_LIBRARY_DIR=/AppleInternal/Library    export APPLE_INTERNAL_TOOLS=/AppleInternal/Developer/Tools    export APPLY_RULES_IN_COPY_FILES=NO    export ARCHS=i386    export ARCHS_STANDARD=x86_64    export ARCHS_STANDARD_32_64_BIT="x86_64 i386"    export ARCHS_STANDARD_32_BIT=i386    export ARCHS_STANDARD_64_BIT=x86_64    export ARCHS_STANDARD_INCLUDING_64_BIT=x86_64    export AVAILABLE_PLATFORMS="iphonesimulator macosx iphoneos"    export BUILD_COMPONENTS="headers build"    export BUILD_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Products    export BUILD_ROOT=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Products    export BUILD_STYLE=    export BUILD_VARIANTS=normal    export BUILT_PRODUCTS_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin    export CACHE_ROOT=/var/folders/wn/vtnryb9s78j3lg02f3ncvksm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode    export CCHROOT=/var/folders/wn/vtnryb9s78j3lg02f3ncvksm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode    export CHMOD=/bin/chmod    export CHOWN=/usr/sbin/chown    export CLANG_CXX_LIBRARY=libstdc++    export CLASS_FILE_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/JavaClasses    export CLEAN_PRECOMPS=YES    export CLONE_HEADERS=NO    export CODESIGNING_FOLDER_PATH=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app    export CODE_SIGNING_ALLOWED=YES    export COLOR_DIAGNOSTICS=NO    export COMBINE_HIDPI_IMAGES=YES    export COMMAND_MODE=legacy    export COMPOSITE_SDK_DIRS=/var/folders/wn/vtnryb9s78j3lg02f3ncvksm0000gn/C/com.apple.DeveloperTools/5.1.1-5B1008/Xcode/CompositeSDKs    export CONFIGURATION=Debug    export CONFIGURATION_BUILD_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin    export CONFIGURATION_TEMP_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug    export CONTENTS_FOLDER_PATH=poem_escalatorDebug.app/Contents    export COPYING_PRESERVES_HFS_DATA=NO    export COPY_PHASE_STRIP=NO    export COPY_RESOURCES_FROM_STATIC_FRAMEWORKS=YES    export CP=/bin/cp    export CREATE_INFOPLIST_SECTION_IN_BINARY=NO    export CURRENT_ARCH=i386    export CURRENT_VARIANT=normal    export DEAD_CODE_STRIPPING=YES    export DEBUGGING_SYMBOLS=YES    export DEBUG_INFORMATION_FORMAT=dwarf    export DEFAULT_COMPILER=com.apple.compilers.llvm.clang.1_0    export DEFAULT_KEXT_INSTALL_PATH=/Library/Extensions    export DEPLOYMENT_LOCATION=NO    export DEPLOYMENT_POSTPROCESSING=NO    export DERIVED_FILES_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/DerivedSources    export DERIVED_FILE_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/DerivedSources    export DERIVED_SOURCES_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/DerivedSources    export DEVELOPER_APPLICATIONS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer    export DEVELOPER_FRAMEWORKS_DIR=/Applications/Xcode.app/Contents/Developer/Library/Frameworks    export DEVELOPER_FRAMEWORKS_DIR_QUOTED=/Applications/Xcode.app/Contents/Developer/Library/Frameworks    export DEVELOPER_LIBRARY_DIR=/Applications/Xcode.app/Contents/Developer/Library    export DEVELOPER_SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    export DEVELOPER_TOOLS_DIR=/Applications/Xcode.app/Contents/Developer/Tools    export DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export DEVELOPMENT_LANGUAGE=English    export DOCUMENTATION_FOLDER_PATH=poem_escalatorDebug.app/Contents/Resources/English.lproj/Documentation    export DO_HEADER_SCANNING_IN_JAM=NO    export DSTROOT=/tmp/poem_escalator.dst    export DT_TOOLCHAIN_DIR=/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain    export DWARF_DSYM_FILE_NAME=poem_escalatorDebug.app.dSYM    export DWARF_DSYM_FILE_SHOULD_ACCOMPANY_PRODUCT=NO    export DWARF_DSYM_FOLDER_PATH=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin    export EMBEDDED_PROFILE_NAME=embedded.provisionprofile    export ENABLE_HEADER_DEPENDENCIES=YES    export EXCLUDED_INSTALLSRC_SUBDIRECTORY_PATTERNS=".DS_Store .svn .git .hg CVS"    export EXCLUDED_RECURSIVE_SEARCH_PATH_SUBDIRECTORIES="*.nib *.lproj *.framework *.gch (*) .DS_Store CVS .svn .git .hg *.xcodeproj *.xcode *.pbproj *.pbxproj"    export EXECUTABLES_FOLDER_PATH=poem_escalatorDebug.app/Contents/Executables    export EXECUTABLE_FOLDER_PATH=poem_escalatorDebug.app/Contents/MacOS    export EXECUTABLE_NAME=poem_escalatorDebug    export EXECUTABLE_PATH=poem_escalatorDebug.app/Contents/MacOS/poem_escalatorDebug    export FILE_LIST=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects/LinkFileList    export FIXED_FILES_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/FixedFiles    export FRAMEWORKS_FOLDER_PATH=poem_escalatorDebug.app/Contents/Frameworks    export FRAMEWORK_FLAG_PREFIX=-framework    export FRAMEWORK_SEARCH_PATHS="/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin  \"/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/../../../libs/glut/lib/osx\""    export FRAMEWORK_SEARCH_PATHS_QUOTED_FOR_TARGET_1="\"/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/../../../libs/glut/lib/osx\""    export FRAMEWORK_VERSION=A    export FULL_PRODUCT_NAME=poem_escalatorDebug.app    export GCC3_VERSION=3.3    export GCC_AUTO_VECTORIZATION=YES    export GCC_DYNAMIC_NO_PIC=NO    export GCC_ENABLE_SSE3_EXTENSIONS=YES    export GCC_ENABLE_SUPPLEMENTAL_SSE3_INSTRUCTIONS=YES    export GCC_GENERATE_DEBUGGING_SYMBOLS=YES    export GCC_INLINES_ARE_PRIVATE_EXTERN=NO    export GCC_MODEL_TUNING=NONE    export GCC_OPTIMIZATION_LEVEL=0    export GCC_PFE_FILE_C_DIALECTS="c objective-c c++ objective-c++"    export GCC_SYMBOLS_PRIVATE_EXTERN=NO    export GCC_TREAT_WARNINGS_AS_ERRORS=NO    export GCC_VERSION=com.apple.compilers.llvm.clang.1_0    export GCC_VERSION_IDENTIFIER=com_apple_compilers_llvm_clang_1_0    export GCC_WARN_ABOUT_DEPRECATED_FUNCTIONS=YES    export GCC_WARN_ABOUT_INVALID_OFFSETOF_MACRO=NO    export GCC_WARN_ALLOW_INCOMPLETE_PROTOCOL=NO    export GCC_WARN_UNINITIALIZED_AUTOS=NO    export GCC_WARN_UNUSED_VALUE=NO    export GCC_WARN_UNUSED_VARIABLE=NO    export GENERATE_MASTER_OBJECT_FILE=NO    export GENERATE_PKGINFO_FILE=YES    export GENERATE_PROFILING_CODE=NO    export GID=20    export GROUP=staff    export HEADERMAP_INCLUDES_FLAT_ENTRIES_FOR_TARGET_BEING_BUILT=YES    export HEADERMAP_INCLUDES_FRAMEWORK_ENTRIES_FOR_ALL_PRODUCT_TYPES=YES    export HEADERMAP_INCLUDES_NONPUBLIC_NONPRIVATE_HEADERS=YES    export HEADERMAP_INCLUDES_PROJECT_HEADERS=YES    export HEADER_CAIRO="\"../../../libs/cairo/include/cairo\""    export HEADER_FMODEX="\"../../../libs/fmodex/include\""    export HEADER_FREEIMAGE="\"../../../libs/FreeImage/include\""    export HEADER_FREETYPE="\"../../../libs/freetype/include\""    export HEADER_FREETYPE2="\"../../../libs/freetype/include/freetype2\""    export HEADER_GLEW="\"../../../libs/glew/include\""    export HEADER_GLFW="\"../../../libs/glfw/include\""    export HEADER_OF="\"../../../libs/openFrameworks/**\""    export HEADER_POCO="\"../../../libs/poco/include\""    export HEADER_RTAUDIO="\"../../../libs/rtAudio/include\""    export HEADER_SEARCH_PATHS="/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/include \"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" \"../../../libs/glfw/include\""    export HEADER_TESS2="\"../../../libs/tess2/include\""    export ICON=icon-debug.icns    export ICONV=/usr/bin/iconv    export ICON_FILE=../../../libs/openFrameworksCompiled/project/osx/icon-debug.icns    export ICON_FILE_PATH=../../../libs/openFrameworksCompiled/project/osx/    export ICON_NAME_DEBUG=icon-debug.icns    export ICON_NAME_RELEASE=icon.icns    export INFOPLIST_EXPAND_BUILD_SETTINGS=YES    export INFOPLIST_FILE=openFrameworks-Info.plist    export INFOPLIST_OUTPUT_FORMAT=same-as-input    export INFOPLIST_PATH=poem_escalatorDebug.app/Contents/Info.plist    export INFOPLIST_PREPROCESS=NO    export INFOSTRINGS_PATH=poem_escalatorDebug.app/Contents/Resources/English.lproj/InfoPlist.strings    export INSTALL_DIR=/tmp/poem_escalator.dst/Users/SEO/Applications    export INSTALL_GROUP=staff    export INSTALL_MODE_FLAG=u+w,go-w,a+rX    export INSTALL_OWNER=SEO    export INSTALL_PATH=/Users/SEO/Applications    export INSTALL_ROOT=/tmp/poem_escalator.dst    export JAVAC_DEFAULT_FLAGS="-J-Xms64m -J-XX:NewSize=4M -J-Dfile.encoding=UTF8"    export JAVA_APP_STUB=/System/Library/Frameworks/JavaVM.framework/Resources/MacOS/JavaApplicationStub    export JAVA_ARCHIVE_CLASSES=YES    export JAVA_ARCHIVE_TYPE=JAR    export JAVA_COMPILER=/usr/bin/javac    export JAVA_FOLDER_PATH=poem_escalatorDebug.app/Contents/Resources/Java    export JAVA_FRAMEWORK_RESOURCES_DIRS=Resources    export JAVA_JAR_FLAGS=cv    export JAVA_SOURCE_SUBDIR=.    export JAVA_USE_DEPENDENCIES=YES    export JAVA_ZIP_FLAGS=-urg    export JIKES_DEFAULT_FLAGS="+E +OLDCSO"    export KEEP_PRIVATE_EXTERNS=NO    export LD_DEPENDENCY_INFO_FILE=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/poem_escalatorDebug_dependency_info.dat    export LD_GENERATE_MAP_FILE=NO    export LD_MAP_FILE_PATH=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/poem_escalatorDebug-LinkMap-normal-i386.txt    export LD_NO_PIE=NO    export LD_QUOTE_LINKER_ARGUMENTS_FOR_COMPILER_DRIVER=YES    export LEGACY_DEVELOPER_DIR=/Applications/Xcode.app/Contents/PlugIns/Xcode3Core.ideplugin/Contents/SharedSupport/Developer    export LEX=lex    export LIBRARY_FLAG_NOSPACE=YES    export LIBRARY_FLAG_PREFIX=-l    export LIBRARY_KEXT_INSTALL_PATH=/Library/Extensions    export LIBRARY_SEARCH_PATHS="/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin                                                              "    export LIB_CAIRO1="\"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\""    export LIB_CAIRO2="\"../../../libs/cairo/lib/osx/cairo.a\""    export LIB_CAIRO3="\"../../../libs/cairo/lib/osx/pixman-1.a\""    export LIB_FMODEX="\"../../../libs/fmodex/lib/osx/libfmodex.dylib\""    export LIB_FREEIMAGE="\"../../../libs/FreeImage/lib/osx/freeimage.a\""    export LIB_FREETYPE="\"../../../libs/freetype/lib/osx/freetype.a\""    export LIB_GLEW="\"../../../libs/glew/lib/osx/glew.a\""    export LIB_GLFW="\"../../../libs/glfw/lib/osx/libglfw3.a\""    export LIB_GLUT="\"../../../libs/glut/lib/osx/GLUT.framework/Versions/A/GLUT\""    export LIB_OPENSSL1="\"../../../libs/openssl/lib/osx/crypto.a\""    export LIB_OPENSSL2="\"../../../libs/openssl/lib/osx/ssl.a\""    export LIB_POCO_1="\"../../../libs/poco/lib/osx/PocoCrypto.a\""    export LIB_POCO_10="\"../../../libs/poco/lib/osx/PocoZip.a\""    export LIB_POCO_2="\"../../../libs/poco/lib/osx/PocoData.a\""    export LIB_POCO_3="\"../../../libs/poco/lib/osx/PocoDataODBC.a\""    export LIB_POCO_4="\"../../../libs/poco/lib/osx/PocoDataSQLite.a\""    export LIB_POCO_5="\"../../../libs/poco/lib/osx/PocoFoundation.a\""    export LIB_POCO_6="\"../../../libs/poco/lib/osx/PocoNet.a\""    export LIB_POCO_7="\"../../../libs/poco/lib/osx/PocoNetSSL.a\""    export LIB_POCO_8="\"../../../libs/poco/lib/osx/PocoUtil.a\""    export LIB_POCO_9="\"../../../libs/poco/lib/osx/PocoXML.a\""    export LIB_RTAUDIO="\"../../../libs/rtAudio/lib/osx/rtAudio.a\""    export LIB_TESS="\"../../../libs/tess2/lib/osx/tess2.a\""    export LINKER_DISPLAYS_MANGLED_NAMES=NO    export LINK_FILE_LIST_normal_i386=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal/i386/poem_escalatorDebug.LinkFileList    export LINK_WITH_STANDARD_LIBRARIES=YES    export LOCALIZED_RESOURCES_FOLDER_PATH=poem_escalatorDebug.app/Contents/Resources/English.lproj    export LOCAL_ADMIN_APPS_DIR=/Applications/Utilities    export LOCAL_APPS_DIR=/Applications    export LOCAL_DEVELOPER_DIR=/Library/Developer    export LOCAL_LIBRARY_DIR=/Library    export MACH_O_TYPE=mh_execute    export MACOSX_DEPLOYMENT_TARGET=10.6    export MAC_OS_X_PRODUCT_BUILD_VERSION=13C64    export MAC_OS_X_VERSION_ACTUAL=1092    export MAC_OS_X_VERSION_MAJOR=1090    export MAC_OS_X_VERSION_MINOR=0902    export MODULE_CACHE_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/ModuleCache    export NATIVE_ARCH=i386    export NATIVE_ARCH_32_BIT=i386    export NATIVE_ARCH_64_BIT=x86_64    export NATIVE_ARCH_ACTUAL=x86_64    export NO_COMMON=YES    export OBJECT_FILE_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects    export OBJECT_FILE_DIR_normal=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Objects-normal    export OBJROOT=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates    export OF_CORE_HEADERS="\"../../../libs/openFrameworks/**\" \"../../../libs/poco/include\" \"../../../libs/freetype/include\" \"../../../libs/freetype/include/freetype2\" \"../../../libs/fmodex/include\" \"../../../libs/glew/include\" \"../../../libs/FreeImage/include\" \"../../../libs/tess2/include\" \"../../../libs/cairo/include/cairo\" \"../../../libs/rtAudio/include\" \"../../../libs/glfw/include\""    export OF_CORE_LIBS="\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\" \"../../../libs/openssl/lib/osx/crypto.a\" \"../../../libs/openssl/lib/osx/ssl.a\" \"../../../libs/glfw/lib/osx/libglfw3.a\""    export OF_PATH=../../..    export ONLY_ACTIVE_ARCH=NO    export OPTIMIZATION_LEVEL=0    export OS=MACOS    export OSAC=/usr/bin/osacompile    export OTHER_CPLUSPLUSFLAGS="-D__MACOSX_CORE__ -lpthread -mtune=native"    export OTHER_LDFLAGS="\"../../../libs/poco/lib/osx/PocoCrypto.a\" \"../../../libs/poco/lib/osx/PocoData.a\" \"../../../libs/poco/lib/osx/PocoDataODBC.a\" \"../../../libs/poco/lib/osx/PocoDataSQLite.a\" \"../../../libs/poco/lib/osx/PocoFoundation.a\" \"../../../libs/poco/lib/osx/PocoNet.a\" \"../../../libs/poco/lib/osx/PocoNetSSL.a\" \"../../../libs/poco/lib/osx/PocoUtil.a\" \"../../../libs/poco/lib/osx/PocoXML.a\" \"../../../libs/poco/lib/osx/PocoZip.a\" \"../../../libs/tess2/lib/osx/tess2.a\" \"../../../libs/glew/lib/osx/glew.a\" \"../../../libs/cairo/lib/osx/cairo-script-interpreter.a\" \"../../../libs/cairo/lib/osx/cairo.a\" \"../../../libs/cairo/lib/osx/pixman-1.a\" \"../../../libs/fmodex/lib/osx/libfmodex.dylib\" \"../../../libs/rtAudio/lib/osx/rtAudio.a\" \"../../../libs/openssl/lib/osx/crypto.a\" \"../../../libs/openssl/lib/osx/ssl.a\" \"../../../libs/glfw/lib/osx/libglfw3.a\""    export PACKAGE_TYPE=com.apple.package-type.wrapper.application    export PASCAL_STRINGS=YES    export PATH="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Tools:/usr/bin:/bin:/usr/sbin:/sbin"    export PATH_PREFIXES_EXCLUDED_FROM_HEADER_DEPENDENCIES="/usr/include /usr/local/include /System/Library/Frameworks /System/Library/PrivateFrameworks /Applications/Xcode.app/Contents/Developer/Headers /Applications/Xcode.app/Contents/Developer/SDKs /Applications/Xcode.app/Contents/Developer/Platforms"    export PBDEVELOPMENTPLIST_PATH=poem_escalatorDebug.app/Contents/pbdevelopment.plist    export PFE_FILE_C_DIALECTS=c++    export PKGINFO_FILE_PATH=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/PkgInfo    export PKGINFO_PATH=poem_escalatorDebug.app/Contents/PkgInfo    export PLATFORM_DEVELOPER_APPLICATIONS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export PLATFORM_DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export PLATFORM_DEVELOPER_LIBRARY_DIR=/Applications/Xcode.app/Contents/Developer/Library    export PLATFORM_DEVELOPER_SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs    export PLATFORM_DEVELOPER_TOOLS_DIR=/Applications/Xcode.app/Contents/Developer/Tools    export PLATFORM_DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export PLATFORM_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform    export PLATFORM_NAME=macosx    export PLATFORM_PREFERRED_ARCH=x86_64    export PLATFORM_PRODUCT_BUILD_VERSION=5B1008    export PLIST_FILE_OUTPUT_FORMAT=same-as-input    export PLUGINS_FOLDER_PATH=poem_escalatorDebug.app/Contents/PlugIns    export PRECOMPS_INCLUDE_HEADERS_FROM_BUILT_PRODUCTS_DIR=YES    export PRECOMP_DESTINATION_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/PrefixHeaders    export PRESERVE_DEAD_CODE_INITS_AND_TERMS=NO    export PRIVATE_HEADERS_FOLDER_PATH=poem_escalatorDebug.app/Contents/PrivateHeaders    export PRODUCT_NAME=poem_escalatorDebug    export PRODUCT_SETTINGS_PATH=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/openFrameworks-Info.plist    export PRODUCT_TYPE=com.apple.product-type.application    export PROFILING_CODE=NO    export PROJECT=poem_escalator    export PROJECT_DERIVED_FILE_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/DerivedSources    export PROJECT_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    export PROJECT_FILE_PATH=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/poem_escalator.xcodeproj    export PROJECT_NAME=poem_escalator    export PROJECT_TEMP_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build    export PROJECT_TEMP_ROOT=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates    export PUBLIC_HEADERS_FOLDER_PATH=poem_escalatorDebug.app/Contents/Headers    export RECURSIVE_SEARCH_PATHS_FOLLOW_SYMLINKS=YES    export REMOVE_CVS_FROM_RESOURCES=YES    export REMOVE_GIT_FROM_RESOURCES=YES    export REMOVE_HG_FROM_RESOURCES=YES    export REMOVE_SVN_FROM_RESOURCES=YES    export REZ_COLLECTOR_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/ResourceManagerResources    export REZ_OBJECTS_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/ResourceManagerResources/Objects    export REZ_SEARCH_PATHS="/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin "    export SCAN_ALL_SOURCE_FILES_FOR_INCLUDES=NO    export SCRIPTS_FOLDER_PATH=poem_escalatorDebug.app/Contents/Resources/Scripts    export SCRIPT_INPUT_FILE_COUNT=0    export SCRIPT_OUTPUT_FILE_COUNT=0    export SDKROOT=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk    export SDK_DIR=/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.9.sdk    export SDK_NAME=macosx10.9    export SDK_PRODUCT_BUILD_VERSION=13C64    export SED=/usr/bin/sed    export SEPARATE_STRIP=NO    export SEPARATE_SYMBOL_EDIT=NO    export SET_DIR_MODE_OWNER_GROUP=YES    export SET_FILE_MODE_OWNER_GROUP=NO    export SHALLOW_BUNDLE=NO    export SHARED_DERIVED_FILE_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/DerivedSources    export SHARED_FRAMEWORKS_FOLDER_PATH=poem_escalatorDebug.app/Contents/SharedFrameworks    export SHARED_PRECOMPS_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/PrecompiledHeaders    export SHARED_SUPPORT_FOLDER_PATH=poem_escalatorDebug.app/Contents/SharedSupport    export SKIP_INSTALL=NO    export SOURCE_ROOT=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    export SRCROOT=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    export STRINGS_FILE_OUTPUT_ENCODING=UTF-16    export STRIP_INSTALLED_PRODUCT=YES    export STRIP_STYLE=all    export SUPPORTED_PLATFORMS=macosx    export SYMROOT=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Products    export SYSTEM_ADMIN_APPS_DIR=/Applications/Utilities    export SYSTEM_APPS_DIR=/Applications    export SYSTEM_CORE_SERVICES_DIR=/System/Library/CoreServices    export SYSTEM_DEMOS_DIR=/Applications/Extras    export SYSTEM_DEVELOPER_APPS_DIR=/Applications/Xcode.app/Contents/Developer/Applications    export SYSTEM_DEVELOPER_BIN_DIR=/Applications/Xcode.app/Contents/Developer/usr/bin    export SYSTEM_DEVELOPER_DEMOS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Utilities/Built Examples"    export SYSTEM_DEVELOPER_DIR=/Applications/Xcode.app/Contents/Developer    export SYSTEM_DEVELOPER_DOC_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library"    export SYSTEM_DEVELOPER_GRAPHICS_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Graphics Tools"    export SYSTEM_DEVELOPER_JAVA_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Java Tools"    export SYSTEM_DEVELOPER_PERFORMANCE_TOOLS_DIR="/Applications/Xcode.app/Contents/Developer/Applications/Performance Tools"    export SYSTEM_DEVELOPER_RELEASENOTES_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes"    export SYSTEM_DEVELOPER_TOOLS=/Applications/Xcode.app/Contents/Developer/Tools    export SYSTEM_DEVELOPER_TOOLS_DOC_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/documentation/DeveloperTools"    export SYSTEM_DEVELOPER_TOOLS_RELEASENOTES_DIR="/Applications/Xcode.app/Contents/Developer/ADC Reference Library/releasenotes/DeveloperTools"    export SYSTEM_DEVELOPER_USR_DIR=/Applications/Xcode.app/Contents/Developer/usr    export SYSTEM_DEVELOPER_UTILITIES_DIR=/Applications/Xcode.app/Contents/Developer/Applications/Utilities    export SYSTEM_DOCUMENTATION_DIR=/Library/Documentation    export SYSTEM_KEXT_INSTALL_PATH=/System/Library/Extensions    export SYSTEM_LIBRARY_DIR=/System/Library    export TARGETNAME=poem_escalator    export TARGET_BUILD_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin    export TARGET_NAME=poem_escalator    export TARGET_TEMP_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build    export TEMP_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build    export TEMP_FILES_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build    export TEMP_FILE_DIR=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build    export TEMP_ROOT=/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates    export TOOLCHAINS=com.apple.dt.toolchain.XcodeDefault    export UID=501    export UNLOCALIZED_RESOURCES_FOLDER_PATH=poem_escalatorDebug.app/Contents/Resources    export UNSTRIPPED_PRODUCT=NO    export USER=SEO    export USER_APPS_DIR=/Users/SEO/Applications    export USER_LIBRARY_DIR=/Users/SEO/Library    export USE_DYNAMIC_NO_PIC=YES    export USE_HEADERMAP=YES    export USE_HEADER_SYMLINKS=NO    export VALIDATE_PRODUCT=NO    export VALID_ARCHS="i386 x86_64"    export VERBOSE_PBXCP=NO    export VERSIONPLIST_PATH=poem_escalatorDebug.app/Contents/version.plist    export VERSION_INFO_BUILDER=SEO    export VERSION_INFO_FILE=poem_escalatorDebug_vers.c    export VERSION_INFO_STRING="\"@(#)PROGRAM:poem_escalatorDebug  PROJECT:poem_escalator-\""    export WRAPPER_EXTENSION=app    export WRAPPER_NAME=poem_escalatorDebug.app    export WRAPPER_SUFFIX=.app    export XCODE_APP_SUPPORT_DIR=/Applications/Xcode.app/Contents/Developer/Library/Xcode    export XCODE_PRODUCT_BUILD_VERSION=5B1008    export XCODE_VERSION_ACTUAL=0511    export XCODE_VERSION_MAJOR=0500    export XCODE_VERSION_MINOR=0510    export XPCSERVICES_FOLDER_PATH=poem_escalatorDebug.app/Contents/XPCServices    export YACC=yacc    export arch=i386    export variant=normal    /bin/sh -c /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/DerivedData/poem_escalator/Build/Intermediates/poem_escalator.build/Debug/poem_escalator.build/Script-E4B6FFFD0C3F9AB9008CF71C.sh36"EFC5D3C9-EE18-4206-BEAB-07B7D410951B-
+b0B7758E8-894D-4F06-8DBB-392BE3094DF7
+
+CProcessInfoPlistFile /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/Info.plist /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/openFrameworks-Info.plist
+s420567146.325164
+e420567146.332980
+r1
+xProcessInfoPlistFile
+x/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/Info.plist
+x/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/openFrameworks-Info.plist
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Process /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/openFrameworks-Info.plist94"ProcessInfoPlistFile bin/poem_escalatorDebug.app/Contents/Info.plist openFrameworks-Info.plist2e75546a5811b941^af3f556a5811b941^---0#0#1#-19%DVTDocumentLocation2@95"file:///Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/openFrameworks-Info.plist0000000000000000^555"ProcessInfoPlistFile bin/poem_escalatorDebug.app/Contents/Info.plist openFrameworks-Info.plist    cd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    builtin-infoPlistUtility /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/openFrameworks-Info.plist -genpkginfo /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app/Contents/Info.plist36"CA408128-C920-4B4E-BAD7-7A8314910E02-
+bDFC58B91-5F9D-4BBF-B220-75B8EC383A10
+
+CTouch /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app
+s420591088.384986
+e420591088.392167
+r1
+xTouch
+x/Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app
+lSLF06#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection96"Touch /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app33"Touch bin/poem_escalatorDebug.appc79d62f0b511b941^9f7664f0b511b941^---0#0#1#--217"Touch bin/poem_escalatorDebug.app    cd /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator    /usr/bin/touch -c /Applications/of_v0.8.1_osx_release/apps/myApps/poem_escalator/bin/poem_escalatorDebug.app36"78AB46B8-2CAE-41A2-8E66-E0A11EFE5F12-
+b0B7758E8-894D-4F06-8DBB-392BE3094DF7
+
